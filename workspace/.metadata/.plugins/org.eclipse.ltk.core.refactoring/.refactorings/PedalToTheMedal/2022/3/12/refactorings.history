@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;PedalToTheMedal/Core/Inc/codecRegs&apos; to &apos;codecRegs.h&apos;" description="Rename resource &apos;codecRegs&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Inc/codecRegs" name="codecRegs.h" stamp="1647294269682" updateReferences="true"/>
+</session>

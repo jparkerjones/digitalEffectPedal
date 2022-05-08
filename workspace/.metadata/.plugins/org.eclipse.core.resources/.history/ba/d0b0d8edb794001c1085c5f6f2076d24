@@ -1,0 +1,30 @@
+/*
+ * codec.c
+ *
+ *  Created on: Feb 22, 2022
+ *      Author: Parker Jones
+ */
+#include "codec.h"
+
+//I2C address of the chip, left shifted 1 bit for RW bit
+static deviceAddr = 0b1010100;
+//i2c handler for i2c port 1, pins PB6 (SCL) and PB7 (SDA).  This port is connected to the codec control i2c port.
+extern I2C_HandleTypeDef hi2c1;
+
+uint8_t* codecCTRLRead(uin16_t regAddr)
+{
+
+
+}
+
+void codecCTRLWrite(uint16_t regAddr, uint8_t* data)
+{
+	HAL_I2C_Mem_Write(&hi2c1,  )
+
+}
+
+uint16_t getDeviceID()
+{
+
+
+}

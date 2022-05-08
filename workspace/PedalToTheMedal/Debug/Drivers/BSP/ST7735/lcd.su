@@ -1,0 +1,12 @@
+lcd.c:49:6:LCD_Test	48	static
+lcd.c:114:6:LCD_SetBrightness	16	static
+lcd.c:119:10:LCD_GetBrightness	4	static
+lcd.c:128:6:LCD_Light	48	static
+lcd.c:176:6:LCD_ShowChar	72	dynamic
+lcd.c:260:6:LCD_ShowString	40	static
+lcd.c:275:16:lcd_init	16	static
+lcd.c:282:16:lcd_gettick	8	static
+lcd.c:287:16:lcd_writereg	32	static
+lcd.c:304:16:lcd_readreg	24	static
+lcd.c:321:16:lcd_senddata	24	static
+lcd.c:335:16:lcd_recvdata	24	static

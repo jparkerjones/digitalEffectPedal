@@ -1,0 +1,4 @@
+st7735_reg.c:46:9:st7735_read_reg	24	static
+st7735_reg.c:59:9:st7735_write_reg	32	static
+st7735_reg.c:71:9:st7735_send_data	24	static
+st7735_reg.c:83:9:st7735_recv_data	24	static

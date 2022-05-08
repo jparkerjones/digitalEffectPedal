@@ -1,0 +1,2 @@
+navswitch.c:46:6:checkGPIO	184	static
+navswitch.c:427:6:updateEffect	40	static

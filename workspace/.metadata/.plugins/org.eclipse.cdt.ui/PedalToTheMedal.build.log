@@ -1,0 +1,10 @@
+15:51:27 **** Incremental Build of configuration Debug for project PedalToTheMedal ****
+make -j4 all 
+arm-none-eabi-size   PedalToTheMedal.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 100972	    272	 268440	 369684	  5a414	PedalToTheMedal.elf
+Finished building: default.size.stdout
+ 
+
+15:51:29 Build Finished. 0 errors, 0 warnings. (took 1s.722ms)
+

@@ -1,0 +1,4 @@
+codec.c:16:6:codecCTRLRead	32	static
+codec.c:23:6:codecCTRLWrite	32	static
+codec.c:29:6:getDeviceID	16	static
+codec.c:46:6:codecInit	16	static
